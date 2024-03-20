@@ -9,3 +9,4 @@ Results
 - Recall: The recall score of 97% means the model has an accuracy of 97% in identifying positive instances from all the actual positive samples in the dataset.
 
 Summary <br/>
+I would recommend using the model for predictions as it has over 95% accuracy in predicting the outcome of the repayment of the initial loan. this high level of accuracy could be used to ensure sufficient capital flow for the lenders to make a profit.
